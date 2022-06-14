@@ -4,18 +4,20 @@
     "url": "https://RecoveryDharma.org/",
     "icon": "https://favicons.githubusercontent.com/recoverydharma.org",
     "slug": "recovery-dharma-global-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 117,
-    "timeWeek": 392,
-    "timeMonth": 417,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 422,
+    "timeDay": 316,
+    "timeWeek": 407,
+    "timeMonth": 422,
+    "timeYear": 422,
+    "dailyMinutesDown": {
+      "2022-06-14": 0
+    }
   },
   {
     "name": "🎟 Sangha Summit ticketing",
@@ -25,12 +27,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 268,
     "timeDay": 176,
-    "timeWeek": 228,
+    "timeWeek": 236,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
