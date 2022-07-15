@@ -8,13 +8,13 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 419,
-    "timeDay": 391,
-    "timeWeek": 464,
-    "timeMonth": 420,
-    "timeYear": 419,
+    "time": 420,
+    "timeDay": 492,
+    "timeWeek": 468,
+    "timeMonth": 426,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-06-14": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/recoverydharma.simpletix.com",
     "slug": "sangha-summit-ticketing",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 292,
-    "timeDay": 275,
-    "timeWeek": 318,
-    "timeMonth": 310,
-    "timeYear": 292,
+    "uptimeYear": "99.99%",
+    "time": 294,
+    "timeDay": 376,
+    "timeWeek": 353,
+    "timeMonth": 313,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-06-07": 10
     }
