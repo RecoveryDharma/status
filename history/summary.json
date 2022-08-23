@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/recoverydharma.org",
     "slug": "recovery-dharma-global-site",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 393,
-    "timeDay": 685,
-    "timeWeek": 368,
-    "timeMonth": 344,
-    "timeYear": 393,
+    "uptimeYear": "99.99%",
+    "time": 391,
+    "timeDay": 183,
+    "timeWeek": 371,
+    "timeMonth": 330,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-06-14": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 284,
-    "timeDay": 383,
-    "timeWeek": 269,
-    "timeMonth": 261,
-    "timeYear": 284,
+    "time": 283,
+    "timeDay": 200,
+    "timeWeek": 265,
+    "timeMonth": 254,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2022-06-07": 10
     }
