@@ -6,7 +6,7 @@
     "slug": "recovery-dharma-global-site",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 420,
     "timeYear": 398,
     "dailyMinutesDown": {
+      "2023-07-31": 0,
       "2023-07-23": 8,
       "2023-07-10": 13,
       "2023-06-16": 24,
