@@ -30,18 +30,19 @@
     "url": "https://recoverydharma.simpletix.com/",
     "icon": "https://icons.duckduckgo.com/ip3/recoverydharma.simpletix.com.ico",
     "slug": "sangha-summit-ticketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 100,
-    "timeWeek": 304,
-    "timeMonth": 300,
-    "timeYear": 314,
+    "timeDay": 226,
+    "timeWeek": 310,
+    "timeMonth": 301,
+    "timeYear": 315,
     "dailyMinutesDown": {
+      "2023-09-21": 0,
       "2022-12-21": 15
     }
   }
