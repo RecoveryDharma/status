@@ -8,14 +8,12 @@ sites:
         name: 🕸 Recovery Dharma Global site
         url: https://RecoveryDharma.org/
         assignees:
-            - nutjob4life
             - tom-raley
     -
         name: 🎟 Sangha Summit ticketing
         url: https://recoverydharma.simpletix.com/
         assignees:
             - tom-raley
-            - nutjob4life
 
 status-website:
     baseUrl: /status
