@@ -6,10 +6,10 @@
     "slug": "recovery-dharma-global-site",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.70%",
     "time": 279,
     "timeDay": 24,
     "timeWeek": 210,
@@ -22,7 +22,7 @@
       "2026-03-19": 723,
       "2026-03-18": 611,
       "2026-10-30": 26,
-      "2026-11-03": 0
+      "2026-11-03": 82
     }
   },
   {
