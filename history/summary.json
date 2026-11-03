@@ -4,16 +4,16 @@
     "url": "https://RecoveryDharma.org/",
     "icon": "https://icons.duckduckgo.com/ip3/recoverydharma.org.ico",
     "slug": "recovery-dharma-global-site",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.70%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "75.49%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.65%",
     "time": 279,
-    "timeDay": 24,
-    "timeWeek": 210,
-    "timeMonth": 257,
+    "timeDay": 175,
+    "timeWeek": 223,
+    "timeMonth": 259,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-12-05": 23,
@@ -22,7 +22,7 @@
       "2026-03-19": 723,
       "2026-03-18": 611,
       "2026-10-30": 26,
-      "2026-11-03": 82
+      "2026-11-03": 353
     }
   },
   {
